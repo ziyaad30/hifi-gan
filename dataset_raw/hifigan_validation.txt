@@ -1,0 +1,350 @@
+processed_xavier_audio_0|Printing, in the only sense with which we are at present concerned, differs from most if not from all the arts and crafts represented in the Exhibition
+processed_xavier_audio_1|in being comparatively modern.
+processed_xavier_audio_2|For although the Chinese took impressions from wood blocks engraved in relief for centuries before the woodcutters of the Netherlands, by a similar process
+processed_xavier_audio_3|produced the block books, which were the immediate predecessors of the true printed book,
+processed_xavier_audio_4|the invention of movable metal letters in the middle of the fifteenth century may justly be considered as the invention of the art of printing.
+processed_xavier_audio_5|And it is worth mention in passing that, as an example of fine typography,
+processed_xavier_audio_6|the earliest book printed with movable types, the Gutenberg, or "forty-two line Bible" of about 1455,
+processed_xavier_audio_7|has never been surpassed.
+processed_xavier_audio_8|Printing, then, for our purpose, may be considered as the art of making books by means of movable types.
+processed_xavier_audio_9|Now, as all books not primarily intended as picture-books consist principally of types composed to form letterpress,
+processed_xavier_audio_10|it is of the first importance that the letter used should be fine in form;
+processed_xavier_audio_11|especially as no more time is occupied, or cost incurred, in casting, setting, or printing beautiful letters
+processed_xavier_audio_12|than in the same operations with ugly ones.
+processed_xavier_audio_13|And it was a matter of course that in the Middle Ages, when the craftsmen took care that beautiful form should always be a part of their productions whatever they were,
+processed_xavier_audio_14|the forms of printed letters should be beautiful, and that their arrangement on the page should be reasonable and a help to the shapeliness of the letters themselves.
+processed_xavier_audio_15|The Middle Ages brought calligraphy to perfection, and it was natural therefore
+processed_xavier_audio_16|that the forms of printed letters should follow more or less closely those of the written character, and they followed them very closely.
+processed_xavier_audio_17|The first books were printed in black letter, i.e. the letter which was a Gothic development of the ancient Roman character,
+processed_xavier_audio_18|and which developed more completely and satisfactorily on the side of the "lower-case" than the capital letters;
+processed_xavier_audio_19|the "lower-case" being in fact invented in the early Middle Ages.
+processed_xavier_audio_20|The earliest book printed with movable type, the aforesaid Gutenberg Bible, is printed in letters which are an exact imitation
+processed_xavier_audio_21|of the more formal ecclesiastical writing which obtained at that time; this has since been called "missal type,"
+processed_xavier_audio_22|and was in fact the kind of letter used in the many splendid missals, psalters, etc., produced by printing in the fifteenth century.
+processed_xavier_audio_23|But the first Bible actually dated (which also was printed at Maintz by Peter Schoeffer in the year 1462)
+processed_xavier_audio_24|imitates a much freer hand, simpler, rounder, and less spiky, and therefore far pleasanter and easier to read.
+processed_xavier_audio_25|On the whole the type of this book may be considered the ne-plus-ultra of Gothic type,
+processed_xavier_audio_26|especially as regards the lower-case letters; and type very similar was used during the next fifteen or twenty years not only by Schoeffer,
+processed_xavier_audio_27|But though on the whole, except in Italy, Gothic letter was most often used
+processed_xavier_audio_28|a very few years saw the birth of Roman character not only in Italy, but in Germany and France.
+processed_xavier_audio_29|In 1465 Sweynheim and Pannartz began printing in the monastery of Subiaco near Rome,
+processed_xavier_audio_30|and used an exceedingly beautiful type, which is indeed to look at a transition between Gothic and Roman,
+processed_xavier_audio_31|but which must certainly have come from the study of the twelfth or even the eleventh century MSS.
+processed_xavier_audio_32|They printed very few books in this type, three only; but in their very first books in Rome, beginning with the year 1468,
+processed_xavier_audio_33|they discarded this for a more completely Roman and far less beautiful letter.
+processed_xavier_audio_34|But about the same year Mentelin at Strasburg began to print in a type which is distinctly Roman;
+processed_xavier_audio_35|and the next year Gunther Zeiner at Augsburg followed suit;
+processed_xavier_audio_36|while in 1470 at Paris Udalric Gering and his associates turned out the first books printed in France, also in Roman character.
+processed_xavier_audio_37|The Roman type of all these printers is similar in character,
+processed_xavier_audio_38|and is very simple and legible, and unaffectedly designed for use; but it is by no means without beauty.
+processed_xavier_audio_39|It must be said that it is in no way like the transition type of Subiaco,
+processed_xavier_audio_40|and though more Roman than that, yet scarcely more like the complete Roman type of the earliest printers of Rome.
+processed_xavier_audio_41|A further development of the Roman letter took place at Venice.
+processed_xavier_audio_42|John of Spires and his brother Vindelin, followed by Nicholas Jenson, began to print in that city,
+processed_xavier_audio_43|1469, 1470;
+processed_xavier_audio_44|their type is on the lines of the German and French rather than of the Roman printers.
+processed_xavier_audio_45|Of Jenson it must be said that he carried the development of Roman type as far as it can go:
+processed_xavier_audio_46|his letter is admirably clear and regular, but at least as beautiful as any other Roman type.
+processed_xavier_audio_47|After his death in the "fourteen eighties," or at least by 1490, printing in Venice had declined very much;
+processed_xavier_audio_48|and though the famous family of Aldus restored its technical excellence, rejecting battered letters,
+processed_xavier_audio_49|and paying great attention to the "press work" or actual process of printing,
+processed_xavier_audio_50|yet their type is artistically on a much lower level than Jenson's, and in fact
+processed_xavier_audio_51|they must be considered to have ended the age of fine printing in Italy.
+processed_xavier_audio_52|Jenson, however, had many contemporaries who used beautiful type,
+processed_xavier_audio_53|some of which -- as, e.g., that of Jacobus Rubeus or Jacques le Rouge -- is scarcely distinguishable from his.
+processed_xavier_audio_54|It was these great Venetian printers, together with their brethren of Rome, Milan,
+processed_xavier_audio_55|Parma, and one or two other cities, who produced the splendid editions of the Classics, which are one of the great glories of the printer's art,
+processed_xavier_audio_56|and are worthy representatives of the eager enthusiasm for the revived learning of that epoch. By far,
+processed_xavier_audio_57|the greater part of these Italian printers, it should be mentioned, were Germans or Frenchmen, working under the influence of Italian opinion and aims.
+processed_xavier_audio_58|It must be understood that through the whole of the fifteenth and the first quarter of the sixteenth centuries
+processed_xavier_audio_59|the Roman letter was used side by side with the Gothic.
+processed_xavier_audio_60|Even in Italy most of the theological and law books were printed in Gothic letter,
+processed_xavier_audio_61|which was generally more formally Gothic than the printing of the German workmen,
+processed_xavier_audio_62|many of whose types, indeed, like that of the Subiaco works, are of a transitional character.
+processed_xavier_audio_63|This was notably the case with the early works printed at Ulm, and in a somewhat lesser degree at Augsburg.
+processed_xavier_audio_64|In fact Gunther Zeiner's first type (afterwards used by Schussler) is remarkably like the type of the before-mentioned Subiaco books.
+processed_xavier_audio_65|In the Low Countries and Cologne, which were very fertile of printed books, Gothic was the favorite.
+processed_xavier_audio_66|This type was introduced into England by Wynkyn de Worde, Caxton's successor,
+processed_xavier_audio_67|and was used there with very little variation all through the sixteenth and seventeenth centuries, and indeed into the eighteenth.
+processed_xavier_audio_68|Most of Caxton's own types are of an earlier character, though they also much resemble Flemish or Cologne letter.
+processed_xavier_audio_69|After the end of the fifteenth century the degradation of printing, especially in Germany and Italy,
+processed_xavier_audio_70|went on apace; and by the end of the sixteenth century there was no really beautiful printing done:
+processed_xavier_audio_71|the best, mostly French or Low-Country, was neat and clear, but without any distinction;
+processed_xavier_audio_72|the worst, which perhaps was the English, was a terrible falling-off from the work of the earlier presses;
+processed_xavier_audio_73|and things got worse and worse through the whole of the seventeenth century, so that in the eighteenth printing was very miserably performed.
+processed_xavier_audio_74|In England about this time, an attempt was made (notably by Caslon, who started business in London as a type-founder in 1720)
+processed_xavier_audio_75|to improve the letter in form.
+processed_xavier_audio_76|Caslon's type is clear and neat, and fairly well designed;
+processed_xavier_audio_77|he seems to have taken the letter of the Elzevirs of the seventeenth century for his model:
+processed_xavier_audio_78|type cast from his matrices is still in everyday use.
+processed_xavier_audio_79|In spite, however, of his praiseworthy efforts, printing had still one last degradation to undergo.
+processed_xavier_audio_80|The seventeenth century founts were bad rather negatively than positively.
+processed_xavier_audio_81|But for the beauty of the earlier work they might have seemed tolerable.
+processed_xavier_audio_82|It was reserved for the founders of the later eighteenth century to produce letters which are positively ugly, and which, it may be added,
+processed_xavier_audio_83|are dazzling and unpleasant to the eye owing to the clumsy thickening and vulgar thinning of the lines:
+processed_xavier_audio_84|for the seventeenth-century letters are at least pure and simple in line. The Italian, Bodoni, and the Frenchman, Didot,
+processed_xavier_audio_85|were the leaders in this luckless change, though our own Baskerville, who was at work some years before them, went much on the same lines;
+processed_xavier_audio_86|but his letters, though uninteresting and poor, are not nearly so gross and vulgar as those of either the Italian or the Frenchman.
+processed_xavier_audio_87|With this change the art of printing touched bottom,
+processed_xavier_audio_88|so far as fine printing is concerned, though paper did not get to its worst till about 1840.
+processed_xavier_audio_89|The Chiswick press in 1844 revived Caslon's founts, printing for Messrs. Longman the Diary of Lady Willoughby.
+processed_xavier_audio_90|This experiment was so far successful that about 1850 Messrs. Miller and Richard of Edinburgh
+processed_xavier_audio_91|were induced to cut punches for a series of "old style" letters.
+processed_xavier_audio_92|These and similar founts, cast by the above firm and others,
+processed_xavier_audio_93|have now come into general use and are obviously a great improvement on the ordinary "modern style" in use in England, which is in fact the Bodoni type
+processed_xavier_audio_94|a little reduced in ugliness. The design of the letters of this modern "old style" leaves a good deal to be desired,
+processed_xavier_audio_95|and the whole effect is a little too gray, owing to the thinness of the letters.
+processed_xavier_audio_96|It must be remembered, however, that most modern printing is done by machinery on soft paper, and not by the hand press,
+processed_xavier_audio_97|and these somewhat wiry letters are suitable for the machine process, which would not do justice to letters of more generous design.
+processed_xavier_audio_98|It is discouraging to note that the improvement of the last fifty years is almost wholly confined to Great Britain.
+processed_xavier_audio_99|Here and there a book is printed in France or Germany with some pretension to good taste,
+processed_xavier_audio_100|but the general revival of the old forms has made no way in those countries.
+processed_xavier_audio_101|Italy is contentedly stagnant.
+processed_xavier_audio_102|America has produced a good many showy books, the typography, paper, and illustrations of which are, however, all wrong,
+processed_xavier_audio_103|oddity rather than rational beauty and meaning being apparently the thing sought for both in the letters and the illustrations.
+processed_xavier_audio_104|To say a few words on the principles of design in typography:
+processed_xavier_audio_105|it is obvious that legibility is the first thing to be aimed at in the forms of the letters;
+processed_xavier_audio_106|this is best furthered by the avoidance of irrational swellings and spiky projections, and by the using of careful purity of line.
+processed_xavier_audio_107|Even the Caslon type when enlarged shows great shortcomings in this respect:
+processed_xavier_audio_108|the ends of many of the letters such as the t and e are hooked up in a vulgar and meaningless way,
+processed_xavier_audio_109|instead of ending in the sharp and clear stroke of Jenson's letters;
+processed_xavier_audio_110|there is a grossness in the upper finishings of letters like the c, the a, and so on,
+processed_xavier_audio_111|an ugly pear-shaped swelling defacing the form of the letter:
+processed_xavier_audio_112|in short, it happens to this craft, as to others, that the utilitarian practice, though it professes to avoid ornament,
+processed_xavier_audio_113|still clings to a foolish, because misunderstood conventionality, deduced from what was once ornament, and is by no means useful;
+processed_xavier_audio_114|which title can only be claimed by artistic practice, whether the art in it be conscious or unconscious.
+processed_xavier_audio_115|In no characters is the contrast between the ugly and vulgar illegibility of the modern type
+processed_xavier_audio_116|and the elegance and legibility of the ancient more striking than in the Arabic numerals.
+processed_xavier_audio_117|In the old print each figure has its definite individuality, and one cannot be mistaken for the other;
+processed_xavier_audio_118|in reading the modern figures the eyes must be strained before the reader can have any reasonable assurance
+processed_xavier_audio_119|that he has a 5, an 8, or a 3 before him, unless the press work is of the best:
+processed_xavier_audio_120|this is awkward if you have to read Bradshaw's Guide in a hurry.
+processed_xavier_audio_121|One of the differences between the fine type and the utilitarian must probably be put down to a misapprehension of a commercial necessity:
+processed_xavier_audio_122|this is the narrowing of the modern letters.
+processed_xavier_audio_123|Most of Jenson's letters are designed within a square,
+processed_xavier_audio_124|the modern letters are narrowed by a third or thereabout; but while this gain of space very much hampers the possibility of beauty of design,
+processed_xavier_audio_125|it is not a real gain, for the modern printer throws the gain away by putting inordinately wide spaces between his lines, which, probably,
+processed_xavier_audio_126|the lateral compression of his letters renders necessary.
+processed_xavier_audio_127|Commercialism again compels the use of type too small in size to be comfortable reading:
+processed_xavier_audio_128|the size known as "Long primer" ought to be the smallest size used in a book meant to be read.
+processed_xavier_audio_129|Here, again, if the practice of "leading" were retrenched larger type could be used without enhancing the price of a book.
+processed_xavier_audio_130|One very important matter in "setting up" for fine printing is the "spacing," that is, the lateral distance of words from one another.
+processed_xavier_audio_131|In good printing the spaces between the words should be as near as possible equal
+processed_xavier_audio_132|it is impossible that they should be quite equal except in lines of poetry
+processed_xavier_audio_133|modern printers understand this, but it is only practiced in the very best establishments.
+processed_xavier_audio_134|But another point which they should attend to they almost always disregard;
+processed_xavier_audio_135|this is the tendency to the formation of ugly meandering white lines or "rivers" in the page
+processed_xavier_audio_136|a blemish which can be nearly, though not wholly, avoided by care and forethought
+processed_xavier_audio_137|the desirable thing being "the breaking of the line" as in bonding masonry or brickwork
+processed_xavier_audio_138|The general solidity of a page is much to be sought for
+processed_xavier_audio_139|modern printers generally overdo the "whites" in the spacing, a defect probably forced on them by the characterless quality of the letters.
+processed_xavier_audio_140|For where these are boldly and carefully designed, and each letter is thoroughly individual in form,
+processed_xavier_audio_141|the words may be set much closer together, without loss of clearness.
+processed_xavier_audio_142|No definite rules, however, except the avoidance of "rivers" and excess of white, can be given for the spacing,
+processed_xavier_audio_143|which requires the constant exercise of judgment and taste on the part of the printer.
+processed_xavier_audio_144|The position of the page on the paper should be considered if the book is to have a satisfactory look.
+processed_xavier_audio_145|Here once more the almost invariable modern practice is in opposition to a natural sense of proportion.
+processed_xavier_audio_146|From the time when books first took their present shape till the end of the sixteenth century, or indeed later,
+processed_xavier_audio_147|the page so lay on the paper that there was more space allowed to the bottom and fore margin than to the top and back of the paper,
+processed_xavier_audio_148|the unit of the book being looked on as the two pages forming an opening.
+processed_xavier_audio_149|The modern printer, in the teeth of the evidence given by his own eyes, considers the single page as the unit, and prints the page in the middle of his paper
+processed_xavier_audio_150|only nominally so, however, in many cases, since when he uses a headline he counts that in,
+processed_xavier_audio_151|the result as measured by the eye being that the lower margin is less than the top one, and that the whole opening has an upside-down look vertically
+processed_xavier_audio_152|and that laterally the page looks as if it were being driven off the paper.
+processed_xavier_audio_153|The paper on which the printing is to be done is a necessary part of our subject:
+processed_xavier_audio_154|of this it may be said that though there is some good paper made now,
+processed_xavier_audio_155|it is never used except for very expensive books, although it would not materially increase the cost in all but the very cheapest.
+processed_xavier_audio_156|The paper that is used for ordinary books is exceedingly bad even in this country, but is beaten in the race for vileness
+processed_xavier_audio_157|by that made in America, which is the worst conceivable.
+processed_xavier_audio_158|There seems to be no reason why ordinary paper should not be better made,
+processed_xavier_audio_159|even allowing the necessity for a very low price; but any improvement must be based on showing openly that the cheap article is cheap,
+processed_xavier_audio_160|e.g. the cheap paper should not sacrifice toughness and durability to a smooth and white surface,
+processed_xavier_audio_161|which should be indications of a delicacy of material and manufacture which would of necessity increase its cost.
+processed_xavier_audio_162|One fruitful source of badness in paper
+processed_xavier_audio_163|is the habit that publishers have of eking out a thin volume by printing it on thick paper almost of the substance of cardboard,
+processed_xavier_audio_164|a device which deceives nobody, and makes a book very unpleasant to read.
+processed_xavier_audio_165|On the whole, a small book should be printed on paper which is as thin as may be without being transparent.
+processed_xavier_audio_166|The paper used for printing the small highly ornamented French service-books about the beginning of the sixteenth century is a model in this respect,
+processed_xavier_audio_167|being thin, tough, and opaque.
+processed_xavier_audio_168|However, the fact must not be blinked that machine-made paper cannot in the nature of things be made of so good a texture as that made by hand.
+processed_xavier_audio_169|The ornamentation of printed books is too wide a subject to be dealt with fully here; but one thing must be said on it.
+processed_xavier_audio_170|The essential point to be remembered is that the ornament, whatever it is, whether picture or pattern-work, should form part of the page,
+processed_xavier_audio_171|should be a part of the whole scheme of the book.
+processed_xavier_audio_172|Simple as this proposition is, it is necessary to be stated,
+processed_xavier_audio_173|because the modern practice is to disregard the relation between the printing and the ornament altogether,
+processed_xavier_audio_174|so that if the two are helpful to one another it is a mere matter of accident.
+processed_xavier_audio_175|The due relation of letter to pictures and other ornament was thoroughly understood by the old printers; so that
+processed_xavier_audio_176|even when the woodcuts are very rude indeed,
+processed_xavier_audio_177|the proportions of the page still give pleasure by the sense of richness that the cuts and letter together convey.
+processed_xavier_audio_178|When, as is most often the case, there is actual beauty in the cuts,
+processed_xavier_audio_179|the books so ornamented are amongst the most delightful works of art that have ever been produced.
+processed_xavier_audio_180|Therefore, granted well-designed type, due spacing of the lines and words, and proper position of the page on the paper,
+processed_xavier_audio_181|all books might be at least comely and well-looking: and if to these good qualities were added really beautiful ornament and pictures,
+processed_xavier_audio_182|printed books might once again illustrate to the full
+processed_xavier_audio_183|the position of our Society that a work of utility might be also a work of art, if we cared to make it so.
+processed_xavier_audio_184|The Chronicles of Newgate, Volume 2. By Arthur Griffiths. Section 4: Newgate down to 1818.
+processed_xavier_audio_185|Under the conditions referred to in the previous chapter,
+processed_xavier_audio_186|with criminals and misdemeanants of all shades crowding perpetually into its narrow limits, the latter state of Newgate was worse than the first.
+processed_xavier_audio_187|The new jail fell as far short of the demands made on it as did the old.
+processed_xavier_audio_188|The prison population fluctuated a great deal,
+processed_xavier_audio_189|but it was almost always in excess of the accommodation available, and there were times when the place was full to overflowing.
+processed_xavier_audio_190|Neild gives some figures which well illustrate this.
+processed_xavier_audio_191|On the 14th June, 1800, there were 199 debtors and 289 felons in the prison.
+processed_xavier_audio_192|On the 27th April, in the following year,
+processed_xavier_audio_193|these numbers had risen to 275 and 375 respectively, or 650 in all.
+processed_xavier_audio_194|For two more years these high figures were steadily maintained, and in 1803 the total rose to 710.
+processed_xavier_audio_195|After that they fell as steadily,
+processed_xavier_audio_196|till, 1808, the lowest point was touched of 197 debtors and 182 felons, or 379 in all.
+processed_xavier_audio_197|The numbers soon increased, however, and by 1811 had again risen to 629; and Mr. Neild was told that there had been at one time
+processed_xavier_audio_198|300 debtors and 900 criminals in Newgate, or twelve hundred prisoners in all.
+processed_xavier_audio_199|Previous to that date there had been 700 or 800 frequently, and once, in Mr. Akerman's time, one thousand.
+processed_xavier_audio_200|Trustworthy evidence is forthcoming to the effect that these high figures were constantly maintained for many months at a time.
+processed_xavier_audio_201|The inadequacy of the jail was noticed and reported upon again and again by the grand juries of the city of London,
+processed_xavier_audio_202|who seldom let a session go by without visiting Newgate.
+processed_xavier_audio_203|In 1813
+processed_xavier_audio_204|the grand jury made a special presentment to the Court of Common Council, pointing out that on the debtors' side, which was intended for only 100,
+processed_xavier_audio_205|no less than 340 were crowded, to the great inconvenience and danger of the inmates.
+processed_xavier_audio_206|On the female side matters were much worse;
+processed_xavier_audio_207|Quote. the apartments set apart for them, being built to accommodate 60 persons, now contain about 120. End quote.
+processed_xavier_audio_208|Returns laid before the House of Commons showed that 6439 persons had been committed to Newgate
+processed_xavier_audio_209|in the three years between 1813 and 1816,
+processed_xavier_audio_210|and this number did not include the debtors, a numerous class, who were still committed to Newgate pending the completion of the White Cross Street prison.
+processed_xavier_audio_211|In order to realize the evils entailed by incarceration in Newgate in these days, it is necessary to give some account of its interior
+processed_xavier_audio_212|as it was occupied and appropriated in 1810.
+processed_xavier_audio_213|Full details of the arrangements are to be found in Mr. Neild's "State of Prisons in England, Scotland, and Wales," published in 1812.
+processed_xavier_audio_214|The jail at that date was divided into eight separate and more or less distinct departments, each of which had its own wards and yard.
+processed_xavier_audio_215|These were: 1. The male debtors' side.
+processed_xavier_audio_216|2. The female debtors' side. 3. The chapel yard. 4. The middle yard.
+processed_xavier_audio_217|5. The master felons' side. 6. The female felons' side. 7. The state side.
+processed_xavier_audio_218|8. The press yard.
+processed_xavier_audio_219|1. The male debtors' side consisted of a yard forty-nine feet by thirty-one,
+processed_xavier_audio_220|leading to thirteen wards on various floors, and a day room.
+processed_xavier_audio_221|Of these wards, three were appropriated to the "cabin side," so called because
+processed_xavier_audio_222|they each contained four small rooms or "cabins" seven feet square,
+processed_xavier_audio_223|intended to accommodate a couple of prisoners apiece, but often much more crowded.
+processed_xavier_audio_224|Two other wards were appropriated to the master's side debtors; they were each twenty-three feet by fourteen and a half,
+processed_xavier_audio_225|and supposed to accommodate twenty persons. The eight remaining wards were for the common side debtors,
+processed_xavier_audio_226|long narrow rooms -- one thirty-six feet, six twenty-three feet, and the eighth eighteen,
+processed_xavier_audio_227|the whole about fifteen feet wide.
+processed_xavier_audio_228|The various wards were all about eleven feet in height,
+processed_xavier_audio_229|and were occupied as a rule by ten to fifteen people when the prison was not crowded, but double the number was occasionally placed in them.
+processed_xavier_audio_230|The day room was fitted with benches and settles after the manner of the tap in a public-house.
+processed_xavier_audio_231|2. The female debtors' side consisted of a court-yard forty-nine by sixteen feet,
+processed_xavier_audio_232|leading to two wards, one of which was thirty-six feet by fifteen,
+processed_xavier_audio_233|and the other eighteen by fifteen; and they nominally held twenty-two persons.
+processed_xavier_audio_234|A high wall fifteen feet in height divided the females' court-yard from the men's.
+processed_xavier_audio_235|3. The chapel yard was about forty-three feet by twenty-five.
+processed_xavier_audio_236|It had been for some time devoted principally to felons of the worst types,
+processed_xavier_audio_237|those who were the oldest offenders, sentenced to transportation, and who had narrowly escaped the penalty of death.
+processed_xavier_audio_238|This arrangement was, however, modified after 1811, and the chapel yard was allotted to misdemeanants and prisoners awaiting trial.
+processed_xavier_audio_239|The wards in this part were five in number, all in dimensions twenty feet by fifteen, with a sixth ward fifteen feet square.
+processed_xavier_audio_240|These wards were all fitted with barrack-beds, but no bedding was supplied.
+processed_xavier_audio_241|The chapel yard led to the chapel, and on the staircase were two rooms frequently set apart for the king's witnesses,
+processed_xavier_audio_242|those who had turned king's evidence, whose safety might have been imperiled had they been lodged with the men against whom they had informed.
+processed_xavier_audio_243|But these king's witnesses were also put at times into the press yard among the capital convicts, seemingly a very dangerous proceeding,
+processed_xavier_audio_244|or they lodged with the gatesmen, the prisoner officers who had charge of the inner gates.
+processed_xavier_audio_245|The middle yard was at first given up to the least heinous offenders. After 1812 it changed functions with the chapel yard.
+processed_xavier_audio_246|It was fifty feet by twenty-five, and had five wards each thirty-eight by fifteen. At one end of the yard was an arcade,
+processed_xavier_audio_247|directly under the chapel, in which there were three cells, used either for the confinement of disorderly and refractory prisoners,
+processed_xavier_audio_248|or female convicts ordered for execution.
+processed_xavier_audio_249|The master felons' side consisted of a yard the same size as the preceding, appropriated nominally to the most decent and better-behaved prisoners,
+processed_xavier_audio_250|but really kept for the few who had funds sufficient to gain them admission to these more comfortable quarters.
+processed_xavier_audio_251|Here were also lodged the gatesmen, the prisoners who had charge of the inner gates, and who were entrusted with the duty of escorting visitors from the gates
+processed_xavier_audio_252|to the various wards their friends occupied.
+processed_xavier_audio_253|The state side was the part stolen from the female felons' side.
+processed_xavier_audio_254|It was large and comparatively commodious, being maintained on a better footing than any other part of the prison.
+processed_xavier_audio_255|The inmates were privileged, either by antecedents or the fortunate possession of sufficient funds to pay the charges of the place.
+processed_xavier_audio_256|Neild takes it for granted that the former rather than the latter prevailed in the selection,
+processed_xavier_audio_257|and tells us that in the state side, quote, such prisoners were safely associated whose manners and conduct evince a more liberal style of education,
+processed_xavier_audio_258|and who are therefore lodged apart from all other districts of the jail. End quote.
+processed_xavier_audio_259|The state side contained twelve good-sized rooms,
+processed_xavier_audio_260|from twenty-one by eighteen feet to fifteen feet square, which were furnished with bedsteads and bedding.
+processed_xavier_audio_261|7. The press yard was that part set aside for the condemned.
+processed_xavier_audio_262|Its name and its situation were the same as those of the old place of carrying out the terrible sentence inflicted on accused persons who stood mute.
+processed_xavier_audio_263|The long narrow yard still remained as we saw it in Jacobite times,
+processed_xavier_audio_264|and beyond it was now a day room for the capital convicts or those awaiting execution.
+processed_xavier_audio_265|Beyond the press yard were three stories, condemned cells, fifteen in all, with vaulted ceilings nine feet high to the crown of the arch.
+processed_xavier_audio_266|The ground floor cells were nine feet by six;
+processed_xavier_audio_267|those on the first floor were rather larger on account of a set-off in the wall; and the uppermost were the largest, for the same reason.
+processed_xavier_audio_268|Security was provided for in these condemned cells by lining the substantial stone walls with planks studded with broad-headed nails;
+processed_xavier_audio_269|they were lighted by a double-grated window two feet nine inches by fourteen inches; and in the doors, which were four inches thick,
+processed_xavier_audio_270|a circular aperture had been let in to give ventilation and secure a free current of air.
+processed_xavier_audio_271|In each cell there was a barrack bedstead on the floor without bedding.
+processed_xavier_audio_272|8. The female felons were deprived of part of the space which the architect had intended for them.
+processed_xavier_audio_273|More than half their quadrangle had been partitioned off for another purpose,
+processed_xavier_audio_274|and what remained was divided into a master's and a common side for female felons.
+processed_xavier_audio_275|The two yards were adjoining, that for the common side much the largest.
+processed_xavier_audio_276|There were nine wards in all on the female side, one of them in the attic,
+processed_xavier_audio_277|with four casements and two fireplaces, being allotted for a female infirmary
+processed_xavier_audio_278|and the rest being provided with barrack beds, and in dimensions varying from thirty feet by fifteen to fifteen feet by ten.
+processed_xavier_audio_279|The eight courts above enumerated were well supplied with water;
+processed_xavier_audio_280|they had dust-bins, sewers, and so forth, "properly disposed," and the city scavenger paid periodical visits to the prison.
+processed_xavier_audio_281|The prisoners had few comforts, beyond the occasional use of a bath at some distance, situated in the press yard,
+processed_xavier_audio_282|to which access was granted rarely and as a great favor. But they were allowed the luxury of drink -- if they could pay for it.
+processed_xavier_audio_283|A recent reform had closed the tap kept by the jailer within the precincts, but
+processed_xavier_audio_284|there was still a "convenient room" which served, and, quote,
+processed_xavier_audio_285|near it a grating through which the debtors receive their beer from the neighboring public-houses.
+processed_xavier_audio_286|The felons' side has a similar accommodation, and this mode of introducing the beverage is adopted because no publican as such
+processed_xavier_audio_287|can be permitted to enter the interior of this prison. End quote. The tap-room and bar were just behind the felons' entrance lodge,
+processed_xavier_audio_288|and beyond it was a room called the "wine room," because formerly used for the sale of wine, but
+processed_xavier_audio_289|in which latterly a copper had been fixed for the cooking of provisions sent in by charitable persons.
+processed_xavier_audio_290|Quote, On the top of the jail, continues Neild, are a watch-house and a sentry-box, where two or more guards, with dogs and firearms,
+processed_xavier_audio_291|watch all night. Adjoining the felons' side lodge is the keeper's office, where the prison books are kept, and his clerk,
+processed_xavier_audio_292|called the clerk of the papers, attends daily. End quote.
+processed_xavier_audio_293|Having thus briefly described the plan and appropriation of the prison, I propose to deal now with the general condition of the inmates, and the manner of their life.
+processed_xavier_audio_294|Of these the debtors, male and female, formed a large proportion.
+processed_xavier_audio_295|The frequency and extent of processes against debtors seventy or eighty years ago will appear almost incredible
+processed_xavier_audio_296|in an age when insolvent acts and bankruptcy courts do so much to relieve the impecunious,
+processed_xavier_audio_297|and imprisonment for debt has almost entirely disappeared.
+processed_xavier_audio_298|The number of processes against debtors annually was extraordinary.
+processed_xavier_audio_299|Neild gives, on the authority of Mr. Burchell, the under sheriff of Middlesex,
+processed_xavier_audio_300|a table showing the figures for the year ending Michaelmas 1802.
+processed_xavier_audio_301|In that period upwards of 200,000 writs
+processed_xavier_audio_302|had been issued for the arrests of debtors in the kingdom, for sums varying from fourpence to £500 and upwards.
+processed_xavier_audio_303|i am training myself to pronounce Lucky Luciano or rather Charles Lucky.
+processed_xavier_audio_304|I can also learn the word Massino as well as Salvatore Riina or Luciano Leggio.
+processed_xavier_audio_305|Some of the other well known gangsters were Meyer Lansky and Vito Genovese.
+processed_xavier_audio_306|Then there were people like Carmine Galante and Giuseppe Greco, and others include the likes of Frank DeCicco and Stefano Magaddino.
+processed_xavier_audio_307|But let me tell you a story about Angelo Ruggiero and Russell Bufalino...
+processed_xavier_audio_308|Fifteen thousand of these were issued in Middlesex alone, which at that time was reckoned as only a fifteenth of Great Britain.
+processed_xavier_audio_309|The number of arrests actually made was 114,300 for the kingdom, and 7020 for Middlesex.
+processed_xavier_audio_310|Barely half of these gave bail bonds on arrests, and the remainder went to prison.
+processed_xavier_audio_311|Quite half of the foregoing writs and arrests applied to sums under £30.
+processed_xavier_audio_312|Neild also says that in 1793,
+processed_xavier_audio_313|5719 writs and executions for debts between £10 and £20 were issued in Middlesex,
+processed_xavier_audio_314|and the aggregate amount of debts sued for was £81,791.
+processed_xavier_audio_315|He also makes the curious calculation that the costs of these actions if undefended
+processed_xavier_audio_316|would have amounted to £68,728, and if defended,
+processed_xavier_audio_317|£285,950; in other words, that to recover eighty odd thousand pounds,
+processed_xavier_audio_318|three times the amount would be expended.
+processed_xavier_audio_319|An elaborate machinery planned for the protection of the trader, and altogether on his side, had long existed for the recovery of debts.
+processed_xavier_audio_320|Alfred the Great established the Court Baron, the Hundred Court, and the County Court, which among other matters entertained pleas for debt.
+processed_xavier_audio_321|According to Marino Mannoia, Bontade told Andreotti: "we are in charge in Sicily... and unless you want the whole DC canceled out... you do as we say."
+processed_xavier_audio_322|Stefano Bontade and other banished mafiosi managed to get into the market of international cigarette smuggling by imposing first their protection, and later their involvement,
+processed_xavier_audio_323|upon the smugglers in Naples, who were connected with the Camorra, and Palermo who had been running this activity since the 1950s.
+processed_xavier_audio_324|Angelo Bruno, an enigmatic figure whose life's narrative unfolded on the gritty streets of Philadelphia, stands as a testament to the intertwining complexities of organized crime.
+processed_xavier_audio_325|After Luciano Leggio’s arrest in 1974, his place was taken by two of his lieutenants, Salvatore Riina and Bernardo Provenzano. Nicknamed the beasts because of their ferocity,
+processed_xavier_audio_326|In 1984, the FBI through wire taps would discover many phone calls from a public phone booth in Rio de Janeiro, and traced the calls to and from tiny towns like Temperance, Michigan.
+processed_xavier_audio_327|According to one Stefano's closest friends at a point in time, Tommaso Buscetta, the war was orchestrated by mafia boss Michele Cavataio.
+processed_xavier_audio_328|Magaddino's crime syndicate took his name by 1930, and his enormous wealth and brutality made him one of the most influential figures in American organized crime.
+processed_xavier_audio_329|Among the men arrested were Carlo Gambino, who assumed control of the Mangano family in New York that would eventually bear his name.
+processed_xavier_audio_330|Paul Castellano, a Gambino caporegime, who in later years would succeed Carlo Gambino but meet his end when John Gotti plotted his execution in a hail of bullets in front of a New York steak house,
+processed_xavier_audio_331|and Santo Trafficante Jr., the head of the South Florida family.
+processed_xavier_audio_332|Others in attendance included Stefano Magaddino, Sam Giancana and Nick Civella.
+processed_xavier_audio_333|Also arrested were the Commission chairman, Joseph Bonanno and Vito Genovese, who tried to make his escape with Bufalino and several other men inside a 1957 Black Chrysler Imperial, driven by Bufalino.
+processed_xavier_audio_334|An official report of men present at the meeting that was submitted to New York governor Harriman on April 23rd, 1958, was a milestone in the annals of organized crime,
+processed_xavier_audio_335|wiping out previous myths and misconceptions about the Italian Mafia and that the Mafia even existed.
+processed_xavier_audio_336|The County Court was the sheriff's, who sat there surrounded by the bishop and the magnates of the county;
+processed_xavier_audio_337|but as time passed, difficulties and delays in obtaining judgment led to the removal of causes to the great Court of King's Bench,
+processed_xavier_audio_338|and the disuse of the inferior courts.
+processed_xavier_audio_339|So much inconvenience ensued, that in 1518 the Corporation obtained from Parliament an act empowering two aldermen
+processed_xavier_audio_340|and four common councilmen to hold Courts of Requests, or Courts of Conscience, to hear and determine all causes of debt
+processed_xavier_audio_341|under 40 shillings arising within the city.
+processed_xavier_audio_342|These courts were extended two centuries later to several large provincial towns, and all were in full activity when Neild wrote,
+processed_xavier_audio_343|and indeed supplied the bulk of the poor debtors committed to prison.
+processed_xavier_audio_344|These courts were open to many and grave objections.
+processed_xavier_audio_345|The commissioners who presided were, quote, little otherwise than self-elected
+processed_xavier_audio_346|and when once appointed continued to serve sine die; they were generally near in rank to the parties whose causes they decided.
+processed_xavier_audio_347|Often a commissioner had to leave the bench because he was himself a party to the suit that was sub judice.
+processed_xavier_audio_348|The activity as well as the futility of these courts may be estimated from the statement given by Neild
+processed_xavier_audio_349|that thirteen hundred and twelve debtors were committed by them to Newgate between 1797 and 1808,
