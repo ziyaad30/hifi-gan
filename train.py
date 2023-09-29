@@ -191,8 +191,8 @@ def train(rank, a, h):
                                      'optim_g': optim_g.state_dict(), 'optim_d': optim_d.state_dict(), 'steps': steps,
                                      'epoch': epoch})
                                      
-                    old_g = oldest_checkpoint_path(checkpoint_path, "g_[0-9]*", preserved=2)
-                    old_d = oldest_checkpoint_path(checkpoint_path, "do_[0-9]*", preserved=2)
+                    old_g = oldest_checkpoint_path(a.checkpoint_path, "g_[0-9]*", preserved=2)
+                    old_d = oldest_checkpoint_path(a.checkpoint_path, "do_[0-9]*", preserved=2)
                     
                     if os.path.exists(old_g):
                         pbar.write(f"Removed {old_g}")
