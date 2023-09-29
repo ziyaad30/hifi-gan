@@ -2,6 +2,7 @@ import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 import itertools
 import os
+import glob
 import time
 import argparse
 import json
@@ -19,6 +20,18 @@ from models import Generator, MultiPeriodDiscriminator, MultiScaleDiscriminator,
 from utils import plot_spectrogram, scan_checkpoint, load_checkpoint, save_checkpoint
 
 torch.backends.cudnn.benchmark = True
+
+
+def extract_digits(f):
+    digits = "".join(filter(str.isdigit, f))
+    return int(digits) if digits else -1
+
+
+def latest_checkpoint_path(dir_path, regex="checkpoint_[0-9]*"):
+    f_list = glob.glob(os.path.join(dir_path, regex))
+    f_list.sort(key=lambda f: int("".join(filter(str.isdigit, f))))
+    x = f_list[-1]
+    return x
 
 
 def train(rank, a, h):
@@ -80,7 +93,7 @@ def train(rank, a, h):
 
     train_sampler = DistributedSampler(trainset) if h.num_gpus > 1 else None
 
-    train_loader = DataLoader(trainset, num_workers=h.num_workers, shuffle=False,
+    train_loader = DataLoader(trainset, num_workers=4, shuffle=False,
                               sampler=train_sampler,
                               batch_size=h.batch_size,
                               pin_memory=True,
@@ -177,6 +190,16 @@ def train(rank, a, h):
                                                          else msd).state_dict(),
                                      'optim_g': optim_g.state_dict(), 'optim_d': optim_d.state_dict(), 'steps': steps,
                                      'epoch': epoch})
+                                     
+                    old_g = oldest_checkpoint_path(checkpoint_path, "g_[0-9]*", preserved=2)
+                    old_d = oldest_checkpoint_path(checkpoint_path, "do_[0-9]*", preserved=2)
+                    
+                    if os.path.exists(old_g):
+                        pbar.write(f"Removed {old_g}")
+                        os.remove(old_g)
+                    if os.path.exists(old_d):
+                        pbar.write(f"Removed {old_d}")
+                        os.remove(old_d)
 
                 # Tensorboard summary logging
                 if steps % a.summary_interval == 0:
@@ -196,7 +219,9 @@ def train(rank, a, h):
                             y_g_hat_mel = mel_spectrogram(y_g_hat.squeeze(1), h.n_fft, h.num_mels, h.sampling_rate,
                                                           h.hop_size, h.win_size,
                                                           h.fmin, h.fmax_for_loss)
-                            val_err_tot += F.l1_loss(y_mel, y_g_hat_mel).item()
+                            # val_err_tot += F.l1_loss(y_mel, y_g_hat_mel).item()
+                            min_len = min(y_mel.shape[-1], y_g_hat_mel.shape[-1])
+                            val_err_tot += F.l1_loss(y_mel[..., :min_len], y_g_hat_mel[..., :min_len]).item()
 
                             if j <= 4:
                                 if steps == 0:
