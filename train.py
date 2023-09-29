@@ -197,10 +197,10 @@ def train(rank, a, h):
                     old_d = oldest_checkpoint_path(a.checkpoint_path, "do_[0-9]*", preserved=2)
                     
                     if os.path.exists(old_g):
-                        pbar.write(f"Removed {old_g}")
+                        print(f"Removed {old_g}")
                         os.remove(old_g)
                     if os.path.exists(old_d):
-                        pbar.write(f"Removed {old_d}")
+                        print(f"Removed {old_d}")
                         os.remove(old_d)
 
                 # Tensorboard summary logging
