@@ -27,11 +27,13 @@ def extract_digits(f):
     return int(digits) if digits else -1
 
 
-def latest_checkpoint_path(dir_path, regex="checkpoint_[0-9]*"):
+def oldest_checkpoint_path(dir_path, regex="ckpt_[0-9]*", preserved=4):
     f_list = glob.glob(os.path.join(dir_path, regex))
-    f_list.sort(key=lambda f: int("".join(filter(str.isdigit, f))))
-    x = f_list[-1]
-    return x
+    f_list.sort(key=lambda f: extract_digits(f))
+    if len(f_list) > preserved:
+        x = f_list[0]
+        return x
+    return ""
 
 
 def train(rank, a, h):
