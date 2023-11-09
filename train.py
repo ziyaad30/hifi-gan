@@ -257,10 +257,10 @@ def main():
     parser = argparse.ArgumentParser()
 
     parser.add_argument('--group_name', default=None)
-    parser.add_argument('--input_wavs_dir', default='/content/hifi-gan/dataset_raw/wavs')
+    parser.add_argument('--input_wavs_dir', default='/content/hifi-gan/dataset_raw')
     parser.add_argument('--input_mels_dir', default='ft_dataset')
     parser.add_argument('--input_training_file', default='/content/hifi-gan/dataset_raw/train.txt')
-    parser.add_argument('--input_validation_file', default='/content/hifi-gan/dataset_raw/validate.txt')
+    parser.add_argument('--input_validation_file', default='/content/hifi-gan/dataset_raw/valid.txt')
     parser.add_argument('--checkpoint_path', default='/content/drive/MyDrive/hifigan')
     parser.add_argument('--config', default='')
     parser.add_argument('--training_epochs', default=3100, type=int)
